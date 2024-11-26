@@ -25,7 +25,7 @@ namespace WF
             {
                 this.height = height;
             }
-            this.energy = energy;
+            Energy = energy;
         }
         public override string GetInfo()
         {
@@ -42,9 +42,9 @@ namespace WF
             get { return energy; }
             set
             {
-                if (value == null)
+                if (value == "")
                 {
-                    energy = "";
+                    energy = "неизвестно";
                 }
                 else
                 {

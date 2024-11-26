@@ -270,7 +270,7 @@
             this.textBox1.Size = new System.Drawing.Size(121, 22);
             this.textBox1.TabIndex = 18;
             this.textBox1.Visible = false;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            //this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -279,7 +279,7 @@
             this.textBox2.Size = new System.Drawing.Size(121, 22);
             this.textBox2.TabIndex = 19;
             this.textBox2.Visible = false;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            //this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 
@@ -288,7 +288,7 @@
             this.textBox3.Size = new System.Drawing.Size(98, 22);
             this.textBox3.TabIndex = 20;
             this.textBox3.Visible = false;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+           // this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox4
             // 
@@ -297,7 +297,7 @@
             this.textBox4.Size = new System.Drawing.Size(98, 22);
             this.textBox4.TabIndex = 21;
             this.textBox4.Visible = false;
-            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+           // this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
             // textBox5
             // 
@@ -306,7 +306,7 @@
             this.textBox5.Size = new System.Drawing.Size(69, 22);
             this.textBox5.TabIndex = 22;
             this.textBox5.Visible = false;
-            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
+           // this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // textBox6
             // 
@@ -315,7 +315,7 @@
             this.textBox6.Size = new System.Drawing.Size(160, 22);
             this.textBox6.TabIndex = 23;
             this.textBox6.Visible = false;
-            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
+           // this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // textBox7
             // 
@@ -324,7 +324,7 @@
             this.textBox7.Size = new System.Drawing.Size(87, 22);
             this.textBox7.TabIndex = 24;
             this.textBox7.Visible = false;
-            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
+         //   this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
             // 
             // textBox8
             // 
@@ -333,7 +333,7 @@
             this.textBox8.Size = new System.Drawing.Size(87, 22);
             this.textBox8.TabIndex = 25;
             this.textBox8.Visible = false;
-            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
+         //   this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
             // 
             // textBox9
             // 
@@ -342,7 +342,7 @@
             this.textBox9.Size = new System.Drawing.Size(87, 22);
             this.textBox9.TabIndex = 26;
             this.textBox9.Visible = false;
-            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
+          //  this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // button10_appliance
             // 
